@@ -1507,6 +1507,25 @@
         "Mobile",
         "jQuery"
       ]
+    },
+    {
+      "name": "yWorld",
+      "thumb": "yworld/thumb.png",
+      "desc": "yWorld is the place to connect and create with the professionals in your life. yWorld combines powerful tools and a community of genuine content into a unique platform. Our influence and prestige ranking engine will change the way you discover new content and while keeping you informed. Together, we’re creating a new experience and transforming what it means to be social in the office.",
+      "url": "http://yworld.com",
+      "info": "http://blog.yworld.com",
+      "submitter": "stephenpitchford",
+      "submissionDate": "2012-05-26",
+      "tags": [
+        "Production",
+        "Social Networking",
+        "Professional Networking",
+        "Collaboration",
+        "Websockets",
+        "WebRTC",
+        "Audio Api",
+        "jQuery"
+      ]
     }
   ]
 }
